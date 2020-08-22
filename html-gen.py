@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Script for envelope money distribution."""
+"""HTML generator"""
 
 
 # Imports
